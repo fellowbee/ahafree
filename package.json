@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.21.2"},"description":"Keep an Aha (aha.video) device session alive and decode the stream API for your own account.","engines":{"node":">=18"},"main":"server.js","name":"aha-service","scripts":{"start":"node server.js"},"version":"1.1.0"}
